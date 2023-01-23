@@ -1,17 +1,20 @@
 ![20230123_191315](https://user-images.githubusercontent.com/101160593/214014656-02871b4c-7283-4fd7-9fec-a8b32b90dea9.png)
 
 ## 1. 대회
-2022 빅콘테스트 - 데이터 분석 리그 퓨처스 부문
+[2022 빅콘테스트](https://www.bigcontest.or.kr/main.php)
 
 ## 2. 주제
 앱 사용성 데이터를 통한 대출신청 예측분석
+- 가명화된 데이터를 기반으로 고객의 대출상품 신청여부 예측 (2022년 3~5월 데이터제공 / 2022년 6월 예측)
+- 예측모델을 활용하여 탐색적 데이터 분석 수행
+- 대출신청, 미신청 고객을 분류하여 고객의 특성 분석결과 도출
 
 ## 3. 팀 소개
 - 인생핀다
   - [안형주](https://github.com/HyungjooAhn1)
-  - [이건이](https://github.com/yjjangg)
-  - [주세현](https://github.com/hfairyz)
-  - [최고운](https://github.com/hfairyz)
+  - [이건이](https://github.com/GeonYi-Lee)
+  - [주세현](https://github.com/shjoo0407)
+  - 최고운
 
 ## 4. 모델링
 
@@ -19,4 +22,7 @@
 
 ## 6. 의의
 
+
 ## 7. 한계점
+- 컴퓨터 자원 부족으로 제대로 된 분석 수행에 어려움 존재
+- 고객 세그먼트 분석에 대한 이해 부족
